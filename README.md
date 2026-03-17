@@ -28,3 +28,9 @@ Git, GitHub, repository, clone, commit, push, pull, remote repository, local rep
 ## Branch дээр хийсэн өөрчлөлт
 
 Энэ хэсгийг Feature-readme branch дээр нэмсэн.
+
+## Миний мэдээлэл
+
+Нэр: Энхболд
+Анги: 2
+Мэргэжил: ПХИ
